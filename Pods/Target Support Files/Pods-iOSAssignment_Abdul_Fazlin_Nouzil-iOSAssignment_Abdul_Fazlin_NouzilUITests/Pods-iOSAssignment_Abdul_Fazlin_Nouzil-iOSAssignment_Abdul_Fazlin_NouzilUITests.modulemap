@@ -1,0 +1,6 @@
+framework module Pods_iOSAssignment_Abdul_Fazlin_Nouzil_iOSAssignment_Abdul_Fazlin_NouzilUITests {
+  umbrella header "Pods-iOSAssignment_Abdul_Fazlin_Nouzil-iOSAssignment_Abdul_Fazlin_NouzilUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
